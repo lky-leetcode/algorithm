@@ -10,7 +10,7 @@ Python solution
 ##### [Problems easy]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
-
+|938|Range Sum of BST|[dfs](./easy/tree/938_Range_Sum_of_BST.py), [devide and conquer](./easy/tree/938_Range_Sum_of_BST-DivideAndConquer.py)|tree|
 
 ##### [Problems median]()
 | # | Title | Solution | Tag        |
