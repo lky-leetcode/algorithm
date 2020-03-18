@@ -17,7 +17,10 @@ class Solution:
             return 0
         if L <= root.val <= R:
             self.ans += root.val
-        self.traversal(root.left, L, R)
-        self.traversal(root.right, L, R)
-
+            self.traversal(root.right, L, R)
+            self.traversal(root.left, L, R)
+        if root.val < L:
+            self.traversal(root.right, L, R)
+        if root.val > R:
+            self.traversal(root.left, L, R)
         return self.ans
