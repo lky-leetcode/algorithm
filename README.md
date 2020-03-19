@@ -11,7 +11,7 @@ Python solution
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
 |938|Range Sum of BST|[dfs](./easy/tree/938_Range_Sum_of_BST.py), [devide and conquer](./easy/tree/938_Range_Sum_of_BST-DivideAndConquer.py)|tree|
-|617|Merge Two Binary Trees|[divide and conquer](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
+|617|Merge Two Binary Trees|[Recursive](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
 
 ##### [Problems median]()
 | # | Title | Solution | Tag        |
