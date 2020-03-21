@@ -18,7 +18,7 @@ Python solution
 ##### [Problems median]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
-
+|98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[to do](./medium)|tree|
 
 ##### [Problems hard]()
 | # | Title | Solution | Tag        |
