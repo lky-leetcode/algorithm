@@ -13,6 +13,8 @@ Python solution
 |938|Range Sum of BST|[dfs](./easy/tree/938_Range_Sum_of_BST.py), [devide and conquer](./easy/tree/938_Range_Sum_of_BST-DivideAndConquer.py)|tree|
 |617|Merge Two Binary Trees|[Recursive](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
 |590|n叉树的后序遍历|[Recursive](./easy/tree/590.n叉树的后序遍历.py)|tree|
+|226|翻转二叉树|[Recursive](./easy/tree/226.翻转二叉树.py)|tree|
+|100|相同的树|[Recursive](./easy/tree/100.相同的树.py)|tree|
 |94|二叉树的中序遍历|[Recursive](./easy/tree/94.二叉树的中序遍历.py)|tree|
 
 ##### [Problems median]()
