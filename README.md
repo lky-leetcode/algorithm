@@ -18,12 +18,12 @@ Python solution
 ##### [Problems median]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
-|98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[to do](./medium)|tree|
+|98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
 
 ##### [Problems hard]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
-|99|恢复二叉搜索树|[O(n)traversal](./hard/tree/99.恢复二叉搜索树_O(n).py),[Morris](./tree/99.恢复二叉搜索树.py)|tree|
+|99|恢复二叉搜索树|[O(n)traversal](./hard/tree/99.恢复二叉搜索树_O(n).py), [Morris算法](./tree/99.恢复二叉搜索树.py)|tree|
 
 C solution 
 ---
