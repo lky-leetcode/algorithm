@@ -23,7 +23,7 @@ Python solution
 ##### [Problems hard]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
-|99|恢复二叉搜索树|[O(n)traversal](./hard/tree/99.恢复二叉搜索树_O(n).py)|tree|
+|99|恢复二叉搜索树|[O(n)traversal](./hard/tree/99.恢复二叉搜索树_O(n).py),[Morris](./tree/99.恢复二叉搜索树.py)|tree|
 
 C solution 
 ---
