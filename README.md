@@ -14,6 +14,7 @@ Python solution
 |617|Merge Two Binary Trees|[Recursive](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
 |590|n叉树的后序遍历|[Recursive](./easy/tree/590.n叉树的后序遍历.py)|tree|
 |226|翻转二叉树|[Recursive](./easy/tree/226.翻转二叉树.py)|tree|
+|111|二叉树的最小深度|[Recursive](./easy/tree/111.二叉树的最小深度.py), [dfs-todo](./)|tree|
 |110|平衡二叉树|[Recursive](./easy/tree/110.平衡二叉树.py)|tree|
 |104|二叉树的最大深度|[Recursive](./easy/tree/104.二叉树的最大深度.py)|tree|
 |100|相同的树|[Recursive](./easy/tree/100.相同的树.py)|tree|
