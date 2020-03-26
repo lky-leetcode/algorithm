@@ -20,6 +20,7 @@ Python solution
 |104|二叉树的最大深度|[Recursive](./easy/tree/104.二叉树的最大深度.py)|tree|
 |100|相同的树|[Recursive](./easy/tree/100.相同的树.py)|tree|
 |94|二叉树的中序遍历|[Recursive](./easy/tree/94.二叉树的中序遍历.py)|tree|
+|1|两数之和|[hash](./easy/array/1.两数之和.py)|array|
 
 ##### [Problems median]()
 | # | Title | Solution | Tag        |
