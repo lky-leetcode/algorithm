@@ -11,6 +11,7 @@ Python solution
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
 |938|Range Sum of BST|[dfs](./easy/tree/938_Range_Sum_of_BST.py), [devide and conquer](./easy/tree/938_Range_Sum_of_BST-DivideAndConquer.py)|tree|
+|687|最长同值路径|[Recursive](./easy/tree/687.最长同值路径.py)|tree|
 |617|Merge Two Binary Trees|[Recursive](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
 |590|n叉树的后序遍历|[Recursive](./easy/tree/590.n叉树的后序遍历.py)|tree|
 |543|二叉树的直径|[Recursive](./easy/tree/543.二叉树的直径(recursive).py), [divide and conquer](./easy/tree/543.二叉树的直径(divideandconquer).py)|tree|
