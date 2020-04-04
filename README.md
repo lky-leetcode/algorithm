@@ -4,6 +4,8 @@
 * C for data strutrue.
 * Python for algorithm.
 
+* 提交通過就直接commit，想到最優解會慢慢更新，上面不一定是最優解，歡迎大家PR。
+
 Python solution 
 ---
 
