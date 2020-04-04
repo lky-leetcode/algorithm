@@ -6,9 +6,8 @@
 #第4題
 
 class Solution:
-    def maxSatisfaction(self, satisfaction: List[int]) -> int:
+    def maxSatisfaction(self, satisfaction):
         satisfaction.sort()
-        ans = 0
         maxValue = 0
         tempMaxValue = 0
         countNonZero = 0
