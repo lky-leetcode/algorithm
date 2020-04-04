@@ -1,7 +1,7 @@
 #Given an integer n. Each number from 1 to n is grouped according to the sum of its digits. 
 #Return how many groups have the largest size.
 #23nd two weekly contest
-#第一題
+#第1題
 
 class Solution:
     def countLargestGroup(self, n: int) -> int:
