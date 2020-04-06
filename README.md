@@ -39,6 +39,7 @@ Python solution
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
 |99|恢复二叉搜索树|[O(n)traversal](./hard/tree/99.恢复二叉搜索树_O(n).py), [refine traversal 解法](./hard/tree/99.恢复二叉搜索树(refine).py), [Morris算法](./tree/99.恢复二叉搜索树.py)|tree|
+|72|编辑距离|[dp](./hard/dp/72.编辑距离.py)|dp|
 |42|接雨水|[dp](./hard/array/42.接雨水.py)|array|
 
 C solution 
