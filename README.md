@@ -34,6 +34,8 @@ Python solution
 |98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
+|22|括号生成|[dfs](./每日一題/22.括号生成.py)|backtraking|
+|39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
 |8|atoi|[array](./每日一題/8.字符串转换整数-atoi.py)|string|
 ##### [Problems hard]()
 | # | Title | Solution | Tag        |
