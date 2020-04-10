@@ -31,6 +31,7 @@ Python solution
 |---| ----- | -------- | ---------- |
 |1111|有效括号的嵌套深度|[stack](./medium/stack/1111.有效括号的嵌套深度.py)|stack|
 |289|生命游戲|[convolution](./每日一題/289.生命游戏(convolution).py)|array|
+|151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
 |98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
