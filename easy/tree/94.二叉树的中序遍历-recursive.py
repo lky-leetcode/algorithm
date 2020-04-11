@@ -18,7 +18,17 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
-         
+        l =[] #list for ans
+        if not root:
+            return []
+        def inorder(root):
+            if not root:
+                return []
+            inorder(root.left)
+            l.append(root.val)
+            inorder(root.right)
+        inorder(root)
+        return l    
         
 # @lc code=end
 
