@@ -1,7 +1,6 @@
-![Language](https://img.shields.io/badge/Language-Python%20%26%20C-orange) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) 
-# Python & C solution for Leetcode
+![Language](https://img.shields.io/badge/Language-Python%20%26%20C++-orange) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) 
+# Python & C++ solution for Leetcode
 
-* C for data strutrue.
 * Python for algorithm.
 
 * 提交通過就直接commit，想到最優解會慢慢更新，上面不一定是最優解，歡迎大家PR。
@@ -47,7 +46,7 @@ Python solution
 |72|编辑距离|[dp](./hard/dp/72.编辑距离.py)|dp|
 |42|接雨水|[dp](./hard/array/42.接雨水.py)|array|
 
-C solution 
+C++ solution 
 ---
 
 ##### [Problems easy]()
