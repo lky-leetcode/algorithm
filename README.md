@@ -30,6 +30,7 @@ Python solution
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
 |1111|有效括号的嵌套深度|[stack](./medium/stack/1111.有效括号的嵌套深度.py)|stack|
+|445|两数相加ii|[stack](./medium/445.两数相加-ii.py)|stack|
 |355|设计推特|[design](./medium/design/355.设计推特.py)|design|
 |289|生命游戲|[convolution](./每日一題/289.生命游戏(convolution).py)|array|
 |151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
@@ -39,6 +40,7 @@ Python solution
 |22|括号生成|[dfs](./每日一題/22.括号生成.py)|backtraking|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
 |8|atoi|[array](./每日一題/8.字符串转换整数-atoi.py)|string|
+|2|两数相加|[list](./medium/stack/2.两数相加.py)|list|
 ##### [Problems hard]()
 | # | Title | Solution | Tag        |
 |---| ----- | -------- | ---------- |
