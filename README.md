@@ -40,7 +40,7 @@ Python solution
 |55|跳跃游戏|[greedy](./medium/array/55.跳跃游戏.py)|array|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
 |22|括号生成|[dfs](./每日一題/22.括号生成.py)|backtraking|
-|39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
+|11|盛最多水的容器|[two_pointer](./medium/two_pointer.py)|two_pointer|
 |8|atoi|[array](./每日一題/8.字符串转换整数-atoi.py)|string|
 |2|两数相加|[list](./medium/stack/2.两数相加.py)|list|
 ##### [Problems hard]()
