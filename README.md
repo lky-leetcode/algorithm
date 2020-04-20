@@ -33,6 +33,7 @@ Python solution
 |445|两数相加ii|[stack](./medium/445.两数相加-ii.py)|stack|
 |355|设计推特|[design](./medium/design/355.设计推特.py)|design|
 |289|生命游戲|[convolution](./每日一題/289.生命游戏(convolution).py)|array|
+|200|岛屿数量|[dfs](./medium/dfs/200.岛屿数量.py) [bfs](./)|搜索|
 |151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
 |98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
