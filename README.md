@@ -35,6 +35,7 @@ Python solution
 |289|生命游戲|[convolution](./每日一題/289.生命游戏(convolution).py)|array|
 |200|岛屿数量|[dfs](./medium/dfs/200.岛屿数量.py) [bfs](./)|搜索|
 |151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
+|130|被围绕的区域|[dfs](./medium/dfs/130.被围绕的区域.py)|搜索|
 |98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
 |56|合併區間|[sort](./medium/array/56.合并区间.py)|array|
