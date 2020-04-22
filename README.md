@@ -34,6 +34,7 @@ Python solution
 |355|设计推特|[design](./medium/design/355.设计推特.py)|design|
 |289|生命游戲|[convolution](./每日一題/289.生命游戏(convolution).py)|array|
 |200|岛屿数量|[dfs](./medium/dfs/200.岛屿数量.py) [bfs](./)|搜索|
+|199|二叉树的右视图|[dfs](./medium/tree/199.二叉树的右视图.py)|tree|
 |151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
 |130|被围绕的区域|[dfs](./medium/dfs/130.被围绕的区域.py)|搜索|
 |98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
