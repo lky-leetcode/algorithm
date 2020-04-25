@@ -41,6 +41,7 @@ Python solution
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
 |56|合併區間|[sort](./medium/array/56.合并区间.py)|array|
 |55|跳跃游戏|[greedy](./medium/array/55.跳跃游戏.py)|array|
+|46|全排列|[backtracking](./medium/dfs/46.全排列.py)|dfs|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
 |22|括号生成|[dfs](./每日一題/22.括号生成.py)|backtraking|
 |11|盛最多水的容器|[two_pointer](./medium/two_pointer.py)|two_pointer|
