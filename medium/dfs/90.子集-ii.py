@@ -12,20 +12,17 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         
-        def dfs(nums, ans, cur, path, visited):
+        def dfs(nums, ans, cur, path):
             ans.append(path[:])
             for i in range(cur, len(nums)):
-                if i > 0 and not visited[i - 1] and nums[i - 1] == nums[i]:
+                if i > cur and nums[i - 1] == nums[i]:
                     continue
                 path.append(nums[i])
-                visited[i] = True
-                dfs(nums, ans, i + 1, path, visited)
+                dfs(nums, ans, i + 1, path)
                 path.pop()
-                visited[i] = False
         ans = []
         nums.sort()
-        visited = [False] * len(nums)
-        dfs(nums, ans, 0, [], visited)
+        dfs(nums, ans, 0, [])
         return ans
 # @lc code=end
 
