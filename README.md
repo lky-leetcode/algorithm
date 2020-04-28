@@ -46,6 +46,7 @@ Python solution
 |47|全排列-ii|[backtracking](./medium/dfs/47.全排列-ii.py)|dfs|
 |46|全排列|[backtracking](./medium/dfs/46.全排列.py)|dfs|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
+|33|搜索旋转排序数组|[binary_search](./medium/binary_search/33.搜索旋转排序数组.py)|binary_search|
 |22|括号生成|[dfs](./每日一題/22.括号生成.py)|backtraking|
 |11|盛最多水的容器|[two_pointer](./medium/two_pointer.py)|two_pointer|
 |8|atoi|[array](./每日一題/8.字符串转换整数-atoi.py)|string|
