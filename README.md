@@ -17,6 +17,7 @@ Python solution
 |590|n叉树的后序遍历|[Recursive](./easy/tree/590.n叉树的后序遍历.py)|tree|
 |543|二叉树的直径|[Recursive](./easy/tree/543.二叉树的直径(recursive).py), [divide and conquer](./easy/tree/543.二叉树的直径(divideandconquer).py)|tree|
 |226|翻转二叉树|[Recursive](./easy/tree/226.翻转二叉树.py)|tree|
+|202|happyNumber|[array](./easy/array/202.happyNumber.py)|array|
 |111|二叉树的最小深度|[Recursive](./easy/tree/111.二叉树的最小深度.py), [dfs-todo](./)|tree|
 |110|平衡二叉树|[Recursive](./easy/tree/110.平衡二叉树.py)|tree|
 |104|二叉树的最大深度|[Recursive](./easy/tree/104.二叉树的最大深度.py)|tree|
