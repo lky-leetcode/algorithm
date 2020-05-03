@@ -24,6 +24,7 @@ Python solution
 |100|相同的树|[Recursive](./easy/tree/100.相同的树.py)|tree|
 |94|二叉树的中序遍历|[Recursive](./easy/tree/94.二叉树的中序遍历-recursive.py)|tree|
 |70|爬楼梯|[dp](./easy/dp/70.爬楼梯.py)|dp|
+|53|最大子序和|[dp](./easy/dp/53.最大子序和.py)|dp|
 |26|删除排序数组中的重复项|[swap](./easy/array/26.删除排序数组中的重复项.py)|array|
 |1|两数之和|[hash](./easy/array/1.两数之和.py)|array|
 
