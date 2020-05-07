@@ -15,6 +15,7 @@ Python solution
 |687|最长同值路径|[Recursive](./easy/tree/687.最长同值路径.py)|tree|
 |617|Merge Two Binary Trees|[Recursive](./easy/tree/617_Merge_Two_Binary_Trees.py)|tree|
 |590|n叉树的后序遍历|[Recursive](./easy/tree/590.n叉树的后序遍历.py)|tree|
+|572|Subtree of Another Tree|[Recursive](./easy/tree/572.py)|tree|
 |543|二叉树的直径|[Recursive](./easy/tree/543.二叉树的直径(recursive).py), [divide and conquer](./easy/tree/543.二叉树的直径(divideandconquer).py)|tree|
 |226|翻转二叉树|[Recursive](./easy/tree/226.翻转二叉树.py)|tree|
 |202|happyNumber|[array](./easy/array/202.happyNumber.py)|array|
