@@ -39,7 +39,7 @@ Python solution
 |199|二叉树的右视图|[dfs](./medium/tree/199.二叉树的右视图.py)|tree|
 |151|翻转字符串里的单词|[spilit](./每日一題/151.翻转字符串里的单词.py)|string|
 |130|被围绕的区域|[dfs](./medium/dfs/130.被围绕的区域.py)|搜索|
-|98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[(to do)](./medium)|tree|
+|98|验证二叉搜索树|[devide and conquer](./medium/tree/98.验证二叉搜索树.py), 也可中序遍歷是否從小到大排序[recursive](./medium/tree/98.py)|tree|
 |96|不同的二叉搜索树|[DP](./medium/tree/96.不同的二叉搜索树.py)|tree|
 |90|子集-ii|[backtracking](./medium/dfs/90.子集-ii.py)|dfs|
 |78|子集|[backtracking](./medium/dfs/78.子集.py)|dfs|
