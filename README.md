@@ -46,6 +46,7 @@ Python solution
 |78|子集|[backtracking](./medium/dfs/78.子集.py)|dfs|
 |56|合併區間|[sort](./medium/array/56.合并区间.py)|array|
 |55|跳跃游戏|[greedy](./medium/array/55.跳跃游戏.py)|array|
+|50|pow|[recursive](./medium/divide_and_conquer/50.py)|divide_and_conquer|
 |47|全排列-ii|[backtracking](./medium/dfs/47.全排列-ii.py)|dfs|
 |46|全排列|[backtracking](./medium/dfs/46.全排列.py)|dfs|
 |39|组合总和|[dfs](./medium/dfs/39.组合总和.py)|dfs|
